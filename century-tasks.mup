@@ -276,7 +276,7 @@
       "id": 27,
       "ideas": {
         "1": {
-          "title": "selbe admin pw",
+          "title": "admin hat auf alle DBs Zugriff",
           "id": 28,
           "attr": {
             "style": {
