@@ -249,6 +249,10 @@
       "attr": {
         "style": {}
       }
+    },
+    "-4": {
+      "title": "Settings",
+      "id": 24
     }
   },
   "attr": {
