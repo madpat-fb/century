@@ -1,0 +1,25 @@
+<openerp>
+  <data>
+
+    <record id="product_normal_form_view" model="ir.ui.view">
+      <field name="name">product.normal.form.inherit</field>
+      <field name="model">product.product</field>
+      <field name="inherit_id" ref="base.product_normal_form_view"/>
+      <field name="arch" type="xml">
+        <form string="Product" version="7.0">
+          <sheet>
+            <notebook>
+              <page string="Spezification">
+                <group>
+                  <label for="spez_briks"/>
+                  <field name="spez_briks"/>
+                </group>
+              </page>
+            </notebook>
+          </sheet>
+        </form>
+      </field>
+    </record>
+
+  </data>
+</openerp>
