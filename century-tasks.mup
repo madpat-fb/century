@@ -252,7 +252,13 @@
     },
     "-4": {
       "title": "Settings",
-      "id": 24
+      "id": 24,
+      "ideas": {
+        "1": {
+          "title": "Konfiguration",
+          "id": 25
+        }
+      }
     }
   },
   "attr": {
