@@ -98,6 +98,17 @@
                 },
                 "progress": "under-review",
                 "style": {}
+              },
+              "ideas": {
+                "1": {
+                  "title": "century_demo datenbank zeigt dieses verhalten nicht",
+                  "id": 26,
+                  "attr": {
+                    "style": {
+                      "background": "#ccffff"
+                    }
+                  }
+                }
               }
             }
           },
@@ -257,6 +268,21 @@
         "1": {
           "title": "Konfiguration",
           "id": 25
+        }
+      }
+    },
+    "-5": {
+      "title": "Datenbanken",
+      "id": 27,
+      "ideas": {
+        "1": {
+          "title": "selbe admin pw",
+          "id": 28,
+          "attr": {
+            "style": {
+              "background": "#ccffff"
+            }
+          }
         }
       }
     }
